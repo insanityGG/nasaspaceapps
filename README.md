@@ -13,7 +13,7 @@ live at - https://clever-water-a-water-quality-and.onrender.com/
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/virajkhot13/nasaspaceapps.git
+    git clone https://github.com/insanityGG/nasaspaceapps.git
     ```
 2.  Install the required Python packages:
     ```bash
@@ -27,3 +27,4 @@ live at - https://clever-water-a-water-quality-and.onrender.com/
     python app.py
     ```
 2.  Open your web browser and navigate to `http://127.0.0.1:5000/`.
+
